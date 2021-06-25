@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renardo91
 - 👀 I’m interested in little random programs. I learned approximatly C, Java, Html/CSS, Javascript.
-- 🌱 I’m currently learning javascript to build some website
+- 🌱 I’m currently learning javascript to build a website application to sort some quotes.
 - 💞️ I’m looking to collaborate on a website project.
 - 📫 How to reach me : here on thye website, you can dm me.
 
